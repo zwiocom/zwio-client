@@ -2,8 +2,8 @@ from setuptools import setup
 
 setup(
     name='zwio-client',
-    version='0.1.0',
-    packages=['src', 'test'],
+    version='0.2.0',
+    packages=['zwio', 'test'],
     url='https://www.zwio.com',
     license='MIT',
     author='Daniel Humphreys',

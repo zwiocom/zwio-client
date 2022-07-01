@@ -1,5 +1,5 @@
 from unittest import TestCase
-from src.zwio_client import hello_world
+from zwio.companies import hello_world
 
 class Test(TestCase):
     def test_hello_world(self):
